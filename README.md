@@ -17,3 +17,6 @@ Our approach involves using texts of moderate length covering various topics, wh
 where LLM-generated content might be used. The challenge also includes dealing with texts produced by multiple, unknown 
 generative models. The goal is to encourage the development of detection methods that are effective across different LLMs, 
 thereby contributing to a broader understanding and capability in this emerging field.**
+
+This dataset contains around 44000  samples of students' essays and different LLMs generated texts essays.
+https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset
